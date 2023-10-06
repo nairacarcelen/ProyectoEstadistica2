@@ -11,7 +11,9 @@ Cedula = Cantidad de ciudadanos aptos para votar por rango de edad y/o de acuerd
 
 **Tabla de datos 2 = *2020_PlebiscitoConstitucionPolitica2*** --> Resultados del Plebiscito Constitucional 2020
 Codigo de la Region = 
+
 Region = Nombre de la region
+
 Comuna = Nombre de comunas por region 
 Circunscripcion = 
 Local = Local de votacion
