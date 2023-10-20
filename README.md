@@ -3,21 +3,17 @@
 **DICCIONARIO DE CODIGOS**
 
 
-**Tabla de datos 1 = *Padron Electoral 2020***
+**Tabla de datos 1 = *Padron2020agrup*** --> Datos agrupados del padron electoral que indica a los ciudadanos aptos para votar en el Plebiscito Nacional Chileno sobre la Constitución Política en el año 2020
 
-Esta tabla hace referencia al Padron Electoral 2020 sobre los ciudadanos aptos para votar en el Plebiscito Nacional Chileno sobre Constitución Política en el año 2020. Esta tabla refuerza nuestras variables independientes porcentaje de los votantes jóvenes y votantes femeninas aptas para votar dentro del padrón electoral. Esta tabla corresponde a la pagina oficial del Servicio Electoral de Chile (SERVEL). Si bien esta tabla hace referencia a cantidades, trabajaremos en base a los datos porcentuales que podamos inferir a partir de esta información.
+Esta tabla hace referencia a los datos agrupados correspondientes al porcentaje de ciudadanas femeninas y porcentaje de ciudadanos jovenes aptos para votar en el Plebiscito Nacional Chileno sobre la Constitución Política en el año 2020. Esta tabla refuerza nuestras variables independientes porcentaje de los votantes jóvenes y votantes femeninas aptas para votar dentro del Padron Electoral 2020. Esta tabla corresponde a la pagina oficial del Servicio Electoral de Chile (SERVEL). 
 
 Comuna = Nombre de comunas por region 
 
-Edad = Edad de ciudadados y ciudadanas aptos para votar
+Total = Total de personas aptas para votar por comuna
 
-Rango_edad = Rango de edad de ciudadanos y ciudadanas aptos para votar 
+De 18a24P = Porcentaje de ciudadanos jovenes aptos para votar (en el rango de edad de 18 - 24 años) por comuna
 
-Region = Nombre de la region 
-
-Sexo = Sexo biologico de los y las ciudadanos y ciudadanas aptos para votar
-
-Cedula = Cantidad de ciudadanos y ciudadanas aptos para votar por rango de edad y/o de acuerdo al sexo
+FememinoP = Porcentaje de ciudadanas femeninas aptas para votar por comuna
 
 
 **Tabla de datos 2 = *2020_PlebiscitoConstitucionPolitica2*** --> Resultados del Plebiscito Constitucional 2020
